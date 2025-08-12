@@ -7,18 +7,18 @@
     <div class="contact-card">
       <h3>Reach Out</h3>
       <p class="helper">Have a question or want help building something custom? Contact me.</p>
-      <p><strong>Email:</strong> <a href="mailto:amirhamza.diu@gmail.com">amirhamza.diu@gmail.com</a></p>
-      <p><strong>Phone:</strong> <a href="tel:+8801845948014">+8801845948014</a></p>
+      <p><strong>Email:</strong> <a href="mailto:sarker15-5160@diu.edu.bd">sarker15-5160@diu.edu.bd</a></p>
+      <p><strong>Phone:</strong> <a href="tel:+8801828965352">+01828965352</a></p>
 
       <div class="socials">
         <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/amir-hamza5927" target="_blank" rel="noopener">
+<a href="https://www.linkedin.com/in/durjoy-sarker-8a5046354/" target="_blank" rel="noopener">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" 
          alt="LinkedIn" style="width:30px; height:30px;">
 </a>
 
 <!-- GitHub -->
-<a href="https://github.com/amir160s" target="_blank" rel="noopener">
+<a href="https://https://github.com/durjoy30" target="_blank" rel="noopener">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" 
          alt="GitHub" style="width:30px; height:30px;">
 </a>
@@ -36,7 +36,7 @@
 </section>
 
 <footer>
-  &copy; <?= date('Y') ?> Bibaho — Designed by Amir Hamza
+  &copy; <?= date('Y') ?> Bibaho — Designed by Durjoy lal sarker
   
 </footer>
 
@@ -74,4 +74,5 @@ document.querySelectorAll('input[name="theme"]').forEach(radio => {
             body: `theme=${this.value}`
         });
     });
+
 });</script>
